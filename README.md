@@ -11,6 +11,7 @@
 *All the development dependencies will be stored in package.json*
 
 ***"start": "npm run lite"***
+
 ***""lite": "lite-server"***
 
 *code index.html*
