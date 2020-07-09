@@ -30,3 +30,14 @@
 
 ## grid_system_part2
 
+**list-unstyled** *This removes the bullets from bulleted list in ul tag*
+
+**align-items-center** *It vertically centers the content*
+
+**justify-content-center** *It horizintally centers the content*
+
+**text-center** *It centers the text*
+
+**align-self-center** It centers the whole content*
+
+**custom css classes** *-added styles.css under css folder-->some code*
