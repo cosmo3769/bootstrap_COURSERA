@@ -8,13 +8,13 @@
 
 **npm install bootstrap jquery popper.js --save**
 
-*All the development dependencies will be stored in package.json*
+*All the development dependencies will be stored in package.json -->*
 
 ***"start": "npm run lite"***
 
 ***""lite": "lite-server"***
 
-*code index.html*
+*code index.html --> The **viewport** meta tag ensures that the screen width is set to the device width and the content is rendered with this width in mind.*
 
 **npm start**
 
@@ -22,4 +22,5 @@
 
 ## grid_system_part1
 
+*The viewport meta tag ensures that the screen width is set to the device width and the content is rendered with this width in mind. This brings us to the second issue, designing the websites to be responsive to the size of the viewport. This is where the Bootstrap grid system comes to our aid. Bootstrap makes available four sizes, xs for extra small, sm for small, md for medium and lg for large screen sizes. We would like our website to have the content stacked on extra small devices, but become horizontal within each row for smaller devices and beyond. Towards this goal, we will make use of the classes .col-*, .col-sm-*, col-md-*, and .col-lg-* for defining the layouts for the various device sizes. We can specify how many columns each piece of content will occupy within a row, all adding up to 12 or a multiple thereof.*
 
