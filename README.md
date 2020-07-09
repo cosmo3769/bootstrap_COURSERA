@@ -44,6 +44,8 @@
 
 **navbar** *It adds the navbar to the screen*
 
+**navbar-nav** *specify that the items should be displayed inline inside the navigation bar*
+
 **navbar-dark** *Id adds the dark color to navbar*
 
 **navbar-expand-sm** *It's for small and extra-small screens*
