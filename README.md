@@ -39,3 +39,28 @@
 **align-self-center** It centers the whole content*
 
 **custom css classes** *-added styles.css under css folder-->some code*
+
+## navbar_breadcrumbs_iconFont
+
+**navbar** *It adds the navbar to the screen*
+
+**navbar-dark** *Id adds the dark color to navbar*
+
+**navbar-expand-sm** *It's for small and extra-small screens*
+
+**bg-primary** *primary background color-blue*
+
+**fixed-top** *It fits the navigation bar to the top*
+
+**navbar-brand** *in navigation bar, there is a brand name or a company name*
+
+**mr-auto** *margin from right*
+
+**active** *link will be active*
+
+**navbar-toggler** *toggle button for small and extra-small screens*
+
+**breadcrumb** 
+
+
+
