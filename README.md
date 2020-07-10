@@ -187,3 +187,5 @@
 **media-body** *this is so that the content should be properly placed - image with description*
 
 **mt-0** *margin top is equal to 0*
+
+###### badges_alerts_progressBars
