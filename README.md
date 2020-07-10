@@ -102,17 +102,17 @@
 
 **this is the use of bootstrap social icons and font-awesome icons**
 
-**google-plus** <a class="btn btn-social-icon btn-google" href="http://google.com/+"><i class="fa fa-google-plus"></i></a>
+**google-plus** *btn btn-social-icon btn-google* *fa fa-google-plus*
 
-<a class="btn btn-social-icon btn-facebook" href="http://www.facebook.com/profile.php?id="><i class="fa fa-facebook"></i></a>
+**facebook** *btn btn-social-icon btn-facebook* *fa fa-facebook*
 
-<a class="btn btn-social-icon btn-linkedin" href="http://www.linkedin.com/in/"><i class="fa fa-linkedin"></i></a>
+**linkedin** *btn btn-social-icon btn-linkedin* *fa fa-linkedin*
 
-<a class="btn btn-social-icon btn-twitter" href="http://twitter.com/"><i class="fa fa-twitter"></i></a>
+**twitter** *btn btn-social-icon btn-twitter* *fa fa-twitter*
 
-<a class="btn btn-social-icon btn-google" href="http://youtube.com/"><i class="fa fa-youtube"></i></a>
+**youtube** *btn btn-social-icon btn-google* *fa fa-youtube*
 
-<a class="btn btn-social-icon" href="mailto:"><i class="fa fa-envelope-o"></i></a>
+**email** *btn btn-social-icon* *fa fa-envelope-o*
 
 
 
