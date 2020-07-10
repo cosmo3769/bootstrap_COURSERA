@@ -175,3 +175,15 @@
 **footer && blockquote-footer** *to add the author of the quote*
 
 **cite** *we can get the source of the quotation*
+
+## images_thumbnails_media
+
+**d-flex** *flexbox classes for bootstrap*
+
+**mr-3** *right margin space upto 3*
+
+**img-thumbnail**
+
+**media-body** *this is so that the content should be properly placed - image with description*
+
+**mt-0** *margin top is equal to 0*
