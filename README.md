@@ -62,7 +62,15 @@
 
 **navbar-toggler** *toggle button for small and extra-small screens*
 
-**breadcrumb** 
+**data-toggle="collapse"** *js component used to collapse the navbar when seen in small and extra small screens*
+
+**data-target="#Navbar"** *This here is the id for the button so that it can be targeted when needs to change with css or other styling and also it can be used to target other                      elements*
+
+**navbar-toggler-icon** *icon for navbar toggler*
+
+**breadcrumb** *To know the hierarchy of steps to move through a website*
+
+**breadcrumb-item** *elements of a page*
 
 
 
