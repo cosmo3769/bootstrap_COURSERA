@@ -42,6 +42,8 @@
 
 ## navbar_breadcrumbs_iconFont
 
+###### navbar_breadcrumbs
+
 **navbar** *It adds the navbar to the screen*
 
 **navbar-nav** *specify that the items should be displayed inline inside the navigation bar*
@@ -71,6 +73,46 @@
 **breadcrumb** *To know the hierarchy of steps to move through a website*
 
 **breadcrumb-item** *elements of a page*
+
+###### iconFont
+
+**npm install font-awesome bootstrap-social --save**
+
+*font awesome and bootstrap-social modules included in index.html and aboutus.html*
+
+**fa** *this is font-awesome class*
+
+**fa-home** *this is font icon for home*
+
+**fa-info** *this is font icon for about us*
+
+**fa-list** *this is font icon for menu*
+
+**fa-address-card** *this is font icon for contacts*
+
+**fa-lg** *this is for larger font icon*
+
+***we use i or span to specify the font-awesome icons***
+
+**fa-phone** *this is font-icon for telephone*
+
+**fa-fax** *this is font-icon for fax*
+
+**fa-envelope** *this is font-icon for email*
+
+**this is the use of bootstrap social icons and font-awesome icons**
+
+<a class="btn btn-social-icon btn-google" href="http://google.com/+"><i class="fa fa-google-plus"></i></a>
+
+<a class="btn btn-social-icon btn-facebook" href="http://www.facebook.com/profile.php?id="><i class="fa fa-facebook"></i></a>
+
+<a class="btn btn-social-icon btn-linkedin" href="http://www.linkedin.com/in/"><i class="fa fa-linkedin"></i></a>
+
+<a class="btn btn-social-icon btn-twitter" href="http://twitter.com/"><i class="fa fa-twitter"></i></a>
+
+<a class="btn btn-social-icon btn-google" href="http://youtube.com/"><i class="fa fa-youtube"></i></a>
+
+<a class="btn btn-social-icon" href="mailto:"><i class="fa fa-envelope-o"></i></a>
 
 
 
