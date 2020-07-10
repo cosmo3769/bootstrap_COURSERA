@@ -114,5 +114,14 @@
 
 **email** *btn btn-social-icon* *fa fa-envelope-o*
 
+## buttons_forms
 
+**button-group** && **role="group"** *it takes all the buttons in a group*
 
+**btn-primary** *primary color for button - dark blue*
+
+**btn-info** *button color - blue*
+
+**btn-success** *button color - green*
+
+**fa-skype** *font icon for skype*
