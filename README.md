@@ -189,3 +189,7 @@
 **mt-0** *margin top is equal to 0*
 
 ###### badges_alerts_progressBars
+
+**badge-danger** *red color for badge*
+
+**badge-pill** *color for badge*
