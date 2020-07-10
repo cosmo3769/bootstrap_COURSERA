@@ -141,3 +141,37 @@
 ***Adding a textarea***
 
 ***Adding a submit button***
+
+## tables_cards
+
+###### tables
+
+**table-responsive** *This makes the table responsive to different screens*
+
+**table** *default table stye rendering on browser with bootstrap own classes*
+
+**table-striped** *striped tables - tables as stripes, alternate rows having different colors*
+
+**thead-dark** *head of the table as dark*
+
+###### cards
+
+**card** *bootstrap classes for cards*
+
+**card-header** *the header or title of the card*
+
+**text-white** *to make the text white*
+
+**card-body** *actual content of the card*
+
+**dl && dt && dd** *description list*
+
+**bg-light** *background will be light*
+
+**blockquote** *adding quotes in a block*
+
+**mb-0** *utility class for bootstrap - margin bottom = 0*
+
+**footer && blockquote-footer** *to add the author of the quote*
+
+**cite** *we can get the source of the quotation*
