@@ -129,3 +129,15 @@
 **fa-skype** *font icon for skype*
 
 ###### forms
+
+*form tag of html to make a form*
+
+**form-group** *it takes all the forms elements in one group*
+
+***created firstname, lastname, areacode, telephone number, email***
+
+***Adding a checkbox and select***
+
+***Adding a textarea***
+
+***Adding a submit button***
