@@ -211,3 +211,17 @@ Tabbed Navigation is used to change the contents on the same page when particula
 **fade** *bootsrap animation for fading*
 
 **show** *bootstrap animation for show*
+
+## collapse_accordion
+
+###### collapse
+
+collapse plugin provides a quick way of revealing and hiding contents
+
+Toggling of content requires the use of a button or a link to trigger the toggle
+
+**data-toggle="collapse"
+
+###### accordion
+
+accordion use is like clicking on one link, seeing it's content while other links are closed & when clicking on other link closes the first link and shows the content of the other.
