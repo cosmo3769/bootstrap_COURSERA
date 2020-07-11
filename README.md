@@ -193,3 +193,9 @@
 **badge-danger** *red color for badge*
 
 **badge-pill** *color for badge*
+
+## bootstrap and js
+
+Bootstraps javaScript support is through javaScript's plugins(plugins written based on jQuery or individually included)
+
+js components can all be used without writing a single line of js(data-*attributes,i.e, data-toggle, data-spy), it is a straightforward approach to use plugins.
