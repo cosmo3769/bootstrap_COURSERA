@@ -199,3 +199,15 @@
 Bootstraps javaScript support is through javaScript's plugins(plugins written based on jQuery or individually included)
 
 js components can all be used without writing a single line of js(data-*attributes,i.e, data-toggle, data-spy), it is a straightforward approach to use plugins.
+
+## tabs_pills_tabbedNavigation
+
+Tabbed Navigation is used to change the contents on the same page when particular tabs is clicked.
+
+**nav-tab && role="tab" && data-toggle="tab"** *It is for making use of navigation tabs*
+
+**role="tab-panel" && tab-pane** *it is for changing the content in a same page*
+
+**fade** *bootsrap animation for fading*
+
+**show** *bootstrap animation for show*
