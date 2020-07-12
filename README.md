@@ -225,3 +225,59 @@ Toggling of content requires the use of a button or a link to trigger the toggle
 ###### accordion
 
 accordion use is like clicking on one link, seeing it's content while other links are closed & when clicking on other link closes the first link and shows the content of the other.
+
+## tooltips_popovers_modals
+
+Revealing content upon interacting with an element on the web page, information is displayed as an overlay.
+
+order of flexibility(tooltips-->popovers-->modals)
+
+###### tooltips
+
+when we hover over any element, additional information will be shown.
+
+**data-toggle="tooltip"** *It is js component to add tooltip functionality.*
+
+**data-html="true"** *It is js component to activate the html use*
+
+**title** *It is where contents of the tootips will be stored*
+
+**data-placement="bottom"** *It will emerge to the bottom of the button*
+
+add the javasript code to activate the tooltip
+
+###### popovers
+
+when we click on any element, additional information will be shown.
+
+###### modals
+
+more detailed information can be presented than tooltips and popovers.
+
+modal contains header, body and footer.
+
+can use the bootstrap grid in the body to organize content
+
+modal code should be places at the top
+
+**modal** *to bring in the modal function*
+
+**role="dialog"** *to put in to the top of the page*
+
+**modal-dialog** *
+
+**modal-lg**
+
+**role="content" && model-content** *main content of modal*
+
+**modal-header** *head content of modal*
+
+**modal-body** *body content of modal*
+
+**class="close" && data-dismiss="modal"** *to display the button and when clicked it closes the modal page*
+
+code added in navbar to show the modal button
+
+**fa-sign-in** *font awesome icon for login*
+
+the usual login form structure is built
