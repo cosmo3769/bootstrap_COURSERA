@@ -289,3 +289,6 @@ It allows the inclusion of a slideshow with captions, can be manually controlled
 **carousel && data-ride="carousel"** *It gives the feature of carousel*
 
 **slide** *carousel slide option to slide the contents*
+
+![alternate]
+(https://gph.is/1jdg4EZ)
