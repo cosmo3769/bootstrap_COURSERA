@@ -281,3 +281,11 @@ code added in navbar to show the modal button
 **fa-sign-in** *font awesome icon for login*
 
 the usual login form structure is built
+
+## carousel
+
+It allows the inclusion of a slideshow with captions, can be manually controlled
+
+**carousel && data-ride="carousel"** *It gives the feature of carousel*
+
+**slide** *carousel slide option to slide the contents*
