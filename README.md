@@ -290,5 +290,5 @@ It allows the inclusion of a slideshow with captions, can be manually controlled
 
 **slide** *carousel slide option to slide the contents*
 
-![alternate]
-(https://gph.is/1jdg4EZ)
+[![alternate]
+(https://gph.is/1jdg4EZ)](https://gph.is/1jdg4EZ)
