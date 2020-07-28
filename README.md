@@ -309,3 +309,41 @@ Here we will make use of bootstrap to add pause and play button for carousel com
 *added some jquery code to add both play and pause button*
 
 *updated jquery code to give pause and play button the functionality to single button*
+
+## css_preprocessors_less_sass
+
+css is great for defining styles for html elements, but it shows limitation as compared to other programming languages coz we can't define variables, nest selectors or use functions.
+So css preprocessors comes to it's rescue
+
+**css preprocessors**
+
+***1.less**
+
+***2.sass-syntactically awesome style sheets & scss-sassy css***
+
+***3.stylus***
+
+all are compiled into traditional css syntax automatically before use in a web page. Bootstrap itself
+uses Sass for defining its source for its CSS classes. And so if you go into customizing Bootstrap, then you would have to work with Sass code. 
+
+**Typical css preprocessors features**
+
+***1.variables***
+
+***2.nesting selectors***
+
+***3.mixins - mixins can hold multiple css declarations unlike variables, we can also give parameters, we can also do mathematical operations***
+
+***functions and expressions***
+
+###### less
+
+rename the previous styles.css file to styles-old.css
+
+make a file named as styles.less
+
+**npm install -g less**
+
+move to css directory where less file you created
+
+**lessc styles.less styles.css** - This will make styles.css file
