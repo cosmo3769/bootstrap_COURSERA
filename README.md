@@ -289,3 +289,21 @@ It allows the inclusion of a slideshow with captions, can be manually controlled
 **carousel && data-ride="carousel"** *It gives the feature of carousel*
 
 **slide** *carousel slide option to slide the contents*
+
+## bootstrap_jquery
+
+Here we will make use of bootstrap to add pause and play button for carousel component and make the slides play and pause with the help of jquery.
+
+**btn-group** *to group the buttons as one entity*
+
+**carouselButton** *to add button for carousel feature*
+
+**carousel-pause** *to add carousal button to pause*
+
+**fa-pause** *to add font icon for pause button*
+
+**carousel-play** *to add carousel button to play*
+
+**fa-play** *to add font icon for play button*
+
+*added some jquery code*
