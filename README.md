@@ -306,4 +306,6 @@ Here we will make use of bootstrap to add pause and play button for carousel com
 
 **fa-play** *to add font icon for play button*
 
-*added some jquery code*
+*added some jquery code to add both play and pause button*
+
+*updated jquery code to give pause and play button the functionality to single button*
