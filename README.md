@@ -347,3 +347,19 @@ make a file named as styles.less
 move to css directory where less file you created
 
 **lessc styles.less styles.css** - This will make styles.css file
+
+###### sass
+
+make a file named styles.scss under css folder
+
+add code to it
+
+**npm install --save-dev node-sass**
+
+go to package.json and add a script to it
+
+**"scss": "node-sass -o css/ css/"**
+
+**npm run scss**
+
+this will make styles.css file under css folder
